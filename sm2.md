@@ -40,6 +40,3 @@ git log
 git reflog
 ~~~
 
-<code>[*Основные команды GIT*](https://git-scm.com/book/ru/v2/Приложение-C%3A-Команды-Git-Основные-команды)</code>
-
-End.
